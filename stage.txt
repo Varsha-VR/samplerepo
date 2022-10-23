@@ -1,0 +1,4 @@
+git add adds the file from directory to staging area and git commit adds the file from staging area to repository.
+There might be 30-40 files in your project, which is to be committed But you want that there should be 10-15 files in this commit, so you'll put those files in the staging area and from there your files will be committed. 
+git log command is used to see the no of previous commits, who did, where and we get all the information here.
+git add . by this command all the files will come in the staging area.
